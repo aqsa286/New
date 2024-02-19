@@ -1,0 +1,3 @@
+api.tap.company www.domain1.com
+ae.tap.company www.domain2.com
+api.tap.compan.aws www.domain3.com
