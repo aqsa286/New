@@ -1,0 +1,11 @@
+{
+    "product": "API",
+    "endpoint": "Moon",
+    "request_uri": "moon",
+    "index_pattern": "star-tap",
+    "domains": {
+"api.tap.company": "www.domain1.com",
+        "DOMAIN1": "www.domain1.com",
+        "DOMAIN2": "www.domain2.com"
+    }
+}
